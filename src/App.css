@@ -1,0 +1,38 @@
+.App{
+    height: 100vh;
+    padding-top: 10px;
+    background-color: #545476;
+    font-family: Lato, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.UTD-logo-contenedor{
+    width: 100%;
+    height: 50px;
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.UTD-logo{
+    height: 100px;
+}
+.contenedor-calculadora{
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: #0972eb;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.fila{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
